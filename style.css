@@ -45,7 +45,7 @@ a{color: #808080;
          height: 100%;
          width: 100%;
     color: #f8f8f8  ;
-    background-image: url("/Assignment1/images/intro-bg_1.jpg");
+    background-image: url("images/intro-bg_1.jpg");
     background-position: center;
     background-size: cover ;
   }
